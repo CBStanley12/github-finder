@@ -1,4 +1,4 @@
-<h1 align="center">React Calculator</h1>
+<h1 align="center">GitHub Finder</h1>
 <p align="center">A web app to search for users on GitHub</p>
 
 ## Table of Contents
